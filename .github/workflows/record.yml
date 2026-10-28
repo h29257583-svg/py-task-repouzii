@@ -31,7 +31,7 @@ jobs:
       fail-fast: false
       matrix:
         target:
-          - "@UziiLive|UCTAROT2c3_EvJCjP8o9R2Yw"
+          - "@FOBOSPLANET|UCaJs3QtwUWJ2u_sdQVBs4XA"
 
     steps:
       - name: Checkout Repository
